@@ -1,0 +1,168 @@
+/* Event Title v1 */
+.stock-head 
+{
+    border-bottom:1px solid #f0f0f0;
+    overflow: hidden;
+    margin-bottom: .4em;
+    padding-bottom: 10px;
+}
+.stock-head>.title
+{
+  font-size:25px;
+  display: inline-block;
+  height: 100%;
+  /* border:1px solid; */
+}
+.stock-head>.seemore
+{
+  height: 100% ;
+  position: relative;
+  right:20px;
+  top:10px;
+  font-weight: 600;
+  color: #707070;
+  /* border:1px solid; */
+  float:right;
+  display: inline-block;
+}
+/* Event Title v1 */
+
+
+
+
+
+/* footer v1 */
+footer
+{
+  border:1px solid;
+  max-width: none;
+}
+/* footer v1 */
+
+/* overlayer v1 */
+.overlayer
+{
+  background-color:#f0f0f0;
+  padding-top:42px;
+  padding-bottom:42px;
+  margin-top:5em;
+
+}
+.overlayer>.content
+{
+  overflow: hidden;
+  max-width: 1112px!important;
+}
+.overlayer>.content>.head-parent
+{
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: .3px;
+  Text-align:center;
+  margin-bottom:35px;
+}
+
+
+.overlayer>.content>.why-box-list>.why-box
+{
+   border:1px solid transparent;
+   display:block;
+   width:355px;
+}
+.overlayer>.content .why-icon
+{
+  font-size:75px;
+  border:1px solid transparent;
+  text-align: center;
+  width:100%;
+  margin-bottom:10px;
+}
+
+.overlayer>.content .why-info
+{
+  text-align:center;
+  border:1px solid transparent;
+
+}
+.overlayer>.content .why-info > .info-desc
+{
+  font-size:15px;
+}
+.overlayer>.content .why-info>.info-title
+{
+  font-size:25px;
+  font-weight:500;
+  margin-bottom:2px;
+}
+
+
+/* .overlayer>.content>.why-left
+{ 
+  margin: 0 auto !important;
+  text-align: left;
+  flex-direction:row;
+  width: 100%;
+  flex-wrap: wrap;
+  display:flex;
+  padding:16px 0;
+}
+.overlayer>.content>.why-right
+{ 
+  width: 100%;
+  margin: 0 auto !important;
+  text-align: left;
+  flex-direction:row-reverse;
+  display:flex;
+  padding:16px 0;
+}
+.overlayer>.content .why-icon
+{
+  font-size:135px;
+}
+.overlayer>.content .why-info>.info-title
+{
+  font-size:25px;
+  font-weight:500;
+  margin-bottom:5px;
+}
+.overlayer>.content .why-info > .info-desc
+{
+  max-width:500px;
+} */
+/* .overlayer>.content .why-info
+{
+  padding-left:20px;
+  padding-right:20px;
+  line-height: 25px;
+  font-size:16px;
+  padding-top:12px;
+  padding-bottom:12px;
+} */
+/* overlayer v1 */
+
+
+
+/* last-info v1 */
+.last-info
+{
+  text-align:center;
+  border:1px solid;
+  padding-top:40px;
+  padding-bottom:60px;
+}
+.last-info > .description
+{
+
+  margin-bottom:20px;
+  font-size:20px;
+}
+.last-info >.btn
+{
+  font-weight:500;
+  padding-top:6px;
+  padding-bottom:5px;
+  width:200px;
+  height:50px;
+}
+/* last-info v1 */
